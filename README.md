@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @petry85
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning Bootstrap and Typescrypt
-- 💞️ I’m looking to collaborate on Front-end projets
+- 👀 I’m interested in Front-end and data analysis
+- 🌱 I’m currently learning SQL, DAX and M Language
+- 💞️ I’m looking to collaborate on Front-end projets and data analysis
 - 📫 How to reach me https://www.linkedin.com/in/anderson-petry/
 
 <!---
